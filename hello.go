@@ -30,6 +30,9 @@ func main() {
 	//scanln()
 	//scanError()
 	//cal()
-	funcMain()
+	//funcMain()
 	//funcSubMain()
+	//constEx()
+	//ifEx()
+	switchEx()
 }
