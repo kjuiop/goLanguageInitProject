@@ -24,16 +24,12 @@ func main() {
 
 	//hello()
 	//goVarType()
-
 	//goFmt()
-
 	//scan()
-
 	//scanf()
-
 	//scanln()
-
 	//scanError()
-
-	cal()
+	//cal()
+	funcMain()
+	//funcSubMain()
 }
