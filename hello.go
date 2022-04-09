@@ -22,8 +22,16 @@ func hello() {
 
 func main() {
 
-	hello()
-	goVarType()
+	//hello()
+	//goVarType()
 
-	goFmt()
+	//goFmt()
+
+	//scan()
+
+	//scanf()
+
+	//scanln()
+
+	scanError()
 }
