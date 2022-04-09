@@ -33,5 +33,7 @@ func main() {
 
 	//scanln()
 
-	scanError()
+	//scanError()
+
+	cal()
 }
