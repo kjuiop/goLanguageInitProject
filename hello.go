@@ -36,5 +36,6 @@ func main() {
 	//ifEx()
 	//switchEx()
 	//arrayEx()
-	structEx()
+	//structEx()
+	pointerEx()
 }
