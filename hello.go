@@ -34,5 +34,6 @@ func main() {
 	//funcSubMain()
 	//constEx()
 	//ifEx()
-	switchEx()
+	//switchEx()
+	arrayEx()
 }
