@@ -38,5 +38,6 @@ func main() {
 	//arrayEx()
 	//structEx()
 	//pointerEx()
-	stringArrayEx()
+	//stringArrayEx()
+	packageEx()
 }
