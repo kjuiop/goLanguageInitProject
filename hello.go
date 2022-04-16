@@ -40,5 +40,6 @@ func main() {
 	//pointerEx()
 	//stringArrayEx()
 	//packageEx()
-	sliceEx()
+	//sliceEx()
+	methodEx()
 }
