@@ -39,6 +39,7 @@ func pointerMethod() {
 	mainA.withdrawPointer(30)
 	fmt.Println(mainA.balance)
 
+	fmt.Println("ddd")
 	mainA.withdrawValue(20)
 	fmt.Println(mainA.balance)
 
