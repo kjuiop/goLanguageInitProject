@@ -43,5 +43,7 @@ func main() {
 	//sliceEx()
 	//methodEx()
 	//interfaceEx()
-	includeInterfaceEx()
+	//includeInterfaceEx()
+	//methodFunctionEx()
+	listEx()
 }
