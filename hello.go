@@ -41,5 +41,7 @@ func main() {
 	//stringArrayEx()
 	//packageEx()
 	//sliceEx()
-	methodEx()
+	//methodEx()
+	//interfaceEx()
+	includeInterfaceEx()
 }
