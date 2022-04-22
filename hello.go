@@ -45,5 +45,10 @@ func main() {
 	//interfaceEx()
 	//includeInterfaceEx()
 	//methodFunctionEx()
-	listEx()
+	//listEx()
+	//queueEx()
+	//stackListEx()
+	//listRingEx()
+	//mapEx()
+	hashMapEx()
 }
