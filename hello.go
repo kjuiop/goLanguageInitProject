@@ -50,5 +50,11 @@ func main() {
 	//stackListEx()
 	//listRingEx()
 	//mapEx()
-	hashMapEx()
+	//hashMapEx()
+	//errorHandlingEx()
+	//sqrtEx()
+	//errorTypeEx()
+	//readEqEx()
+	//panicEx()
+	panicRecoverEx()
 }
