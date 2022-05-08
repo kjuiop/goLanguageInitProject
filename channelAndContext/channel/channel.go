@@ -12,14 +12,18 @@ func main() {
 
 	wg.Add(1)
 	go square(&wg, ch)
-	ch <- 9
+
+	for i := 0; i < 10; i++ {
+		ch <- i * 2
+	}
+	close(ch)
 	wg.Wait()
 }
 
 func square(wg *sync.WaitGroup, ch chan int) {
-	n := <-ch
-
-	time.Sleep(time.Second)
-	fmt.Printf("Square : %d\n", n*n)
+	for n := range ch {
+		fmt.Printf("Square : %d\n", n*n)
+		time.Sleep(time.Second)
+	}
 	wg.Done()
 }
