@@ -14,6 +14,8 @@ func main() {
 	ctx := context.WithValue(context.Background(), "number", 9)
 	go square(ctx)
 
+	fmt.Println("---")
+
 	wg.Wait()
 }
 
