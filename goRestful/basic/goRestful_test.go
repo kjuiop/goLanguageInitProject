@@ -22,6 +22,7 @@ func TestJsonHandler(t *testing.T) {
 	err := json.NewDecoder(res.Body).Decode(&list)
 
 	assert.Nil(err)
+	assert.Nil(err)
 	assert.Equal(2, len(list))
 	assert.Equal("aaa", list[0].Name)
 	assert.Equal("bbb", list[1].Name)
