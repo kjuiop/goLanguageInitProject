@@ -10,20 +10,10 @@ func cal() {
 	var t float32 = 5
 
 	fmt.Println("x + y = ", x+y)
-	fmt.Println("x + y = ", x+y)
 	fmt.Println("x - y = ", x-y)
-	fmt.Println("x - y = ", x-y)
-	fmt.Println("x - y = ", x-y)
-	fmt.Println("x * y = ", x*y)
-	fmt.Println("x * y = ", x*y)
-	fmt.Println("x * y = ", x*y)
-	fmt.Println("x * y = ", x*y)
-	fmt.Println("x * y = ", x*y)
 	fmt.Println("x * y = ", x*y)
 	fmt.Println("x / y = ", x/y)
 	fmt.Println("x % y = ", x%y)
-	fmt.Println("x % y = ", x%y)
-
 	fmt.Println("s * t = ", s*t)
 	fmt.Println("s / t = ", s/t)
 
