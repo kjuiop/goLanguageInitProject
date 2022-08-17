@@ -13,7 +13,7 @@ func cal() {
 	fmt.Println("x - y = ", x-y)
 	fmt.Println("x * y = ", x*y)
 	fmt.Println("x * y = ", x*y)
-
+	fmt.Println("x * y = ", x*y)
 	fmt.Println("x * y = ", x*y)
 	fmt.Println("x / y = ", x/y)
 	fmt.Println("x % y = ", x%y)
